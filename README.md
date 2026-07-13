@@ -1,28 +1,49 @@
+<h1 align="center">Hi there 👋 I'm Chenglong Cui</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Backend+Engineer;AI+Engineer;MLOps;Building+AI-powered+developer+tools;Distributed+Systems" alt="Typing SVG" />
+  <b>Backend Engineer | AI Engineer | MLOps</b><br>
+  Building AI-powered developer tools and distributed systems.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ccl125&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="mailto:ccl12538@163.com"><img src="https://img.shields.io/badge/Email-ccl12538@163.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ---
 
-## 👋 About Me
+## 🚀 Current Focus
 
-Hi, I'm **Chenglong Cui**.
-
-Backend Engineer focused on **AI Engineering**, **MLOps** and **Distributed Systems**.
-
-Currently building AI-powered developer tools that automate ETL analysis, on-call diagnosis and software engineering workflows.
+- 🤖 AI Agent
+- 🧠 LLM Applications
+- ⚙️ LangGraph Workflow
+- 📊 Risk MLOps Platform
+- ⚡ ETL Performance Optimization
+- ☁️ Distributed Systems
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,clickhouse,python,spark,hive,hadoop,docker,kubernetes,react,ts,git,linux" alt="Tech Stack" />
-</p>
+### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+
+### Big Data
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
+
+### AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ---
 
@@ -37,21 +58,11 @@ Currently building AI-powered developer tools that automate ETL analysis, on-cal
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ccl125&theme=flat&column=7&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  <br>
   <img src="https://ghchart.rshah.org/2F80ED/ccl125" alt="Contribution Graph" />
 </p>
 
