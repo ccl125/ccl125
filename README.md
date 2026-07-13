@@ -77,7 +77,6 @@
 ## 📫 Contact
 
 - 📧 Email: [ccl12538@163.com](mailto:ccl12538@163.com)
-- 💼 LinkedIn: *your-linkedin-url*
 
 ---
 
