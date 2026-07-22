@@ -78,8 +78,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=ccl125&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="208" src="https://stats.hyo.dev/api/github-stats-advanced?login=ccl125&theme=tokyonight" alt="GitHub Stats" />
+  <img height="208" src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
