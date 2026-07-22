@@ -96,10 +96,11 @@
 
 ---
 
-## 📊 Metrics
+## 📊 Detailed Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ccl125/ccl125/main/github-metrics.svg" alt="Metrics" />
+  <img src="https://raw.githubusercontent.com/ccl125/github-stats/generated/overview.svg" alt="GitHub Stats Overview" />
+  <img src="https://raw.githubusercontent.com/ccl125/github-stats/generated/languages.svg" alt="Top Languages" />
 </div>
 
 ---
