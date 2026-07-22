@@ -18,12 +18,12 @@
 
 ## 🚀 Current Focus
 
-- 🤖 **AI Agent** — 智能体应用与工程化落地
-- 🧠 **LLM Applications** — 大模型应用开发
-- ⚙️ **LangGraph Workflow** — 工作流编排
-- 📊 **Risk MLOps Platform** — 风控场景端到端 MLOps
-- ⚡ **ETL Performance Optimization** — ETL 性能分析与优化
-- ☁️ **Distributed Systems** — 分布式系统
+- 🤖 **AI Agent** — Engineering and productionizing agentic applications
+- 🧠 **LLM Applications** — Building applications on large language models
+- ⚙️ **LangGraph Workflow** — Agent workflow orchestration
+- 📊 **Risk MLOps Platform** — End-to-end MLOps for risk control scenarios
+- ⚡ **ETL Performance Optimization** — ETL pipeline analysis and tuning
+- ☁️ **Distributed Systems** — Designing and scaling distributed systems
 
 ---
 
@@ -58,20 +58,12 @@
 
 ## ⭐ Featured Projects
 
-<div align="center">
-  <a href="https://github.com/ccl125/liquid-glass">
-    <img width="48%" src="https://opengraph.githubassets.com/1/ccl125/liquid-glass" alt="liquid-glass" />
-  </a>
-  <a href="https://github.com/ccl125/yqg-git-ai">
-    <img width="48%" src="https://opengraph.githubassets.com/1/ccl125/yqg-git-ai" alt="yqg-git-ai" />
-  </a>
-  <a href="https://github.com/ccl125/mini-spring">
-    <img width="48%" src="https://opengraph.githubassets.com/1/ccl125/mini-spring" alt="mini-spring" />
-  </a>
-  <a href="https://github.com/ccl125/ccl-leetcode">
-    <img width="48%" src="https://opengraph.githubassets.com/1/ccl125/ccl-leetcode" alt="ccl-leetcode" />
-  </a>
-</div>
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**liquid-glass**](https://github.com/ccl125/liquid-glass) | Apple-style liquid glass for the web: real refraction lens for `backdrop-filter` (SVG displacement map + chromatic dispersion). Vanilla core + React wrapper, zero deps | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**yqg-git-ai**](https://github.com/ccl125/yqg-git-ai) | AI-powered Git CLI assistant for automated branch management, cherry-pick, release, and code review | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [**mini-spring**](https://github.com/ccl125/mini-spring) | A simplified Spring framework for learning its core principles: IoC, AOP, resource loading, bean lifecycle, and application context | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| [**ccl-leetcode**](https://github.com/ccl125/ccl-leetcode) | LeetCode solutions and interview preparation notes | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
 
 ---
 
@@ -83,8 +75,8 @@
   <img width="348" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
   <img width="348" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
   <br/>
-  <img width="348" src="https://raw.githubusercontent.com/ccl125/github-stats/generated/overview.svg" alt="GitHub Stats Overview" />
-  <img width="348" src="https://raw.githubusercontent.com/ccl125/github-stats/generated/languages.svg" alt="Top Languages" />
+  <img width="348" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+  <img width="348" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
   <br/>
   <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=tokyonight&hide_border=true&card_width=700" alt="GitHub Streak" />
 </div>
