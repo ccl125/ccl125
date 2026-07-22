@@ -60,16 +60,16 @@
 
 <div align="center">
   <a href="https://github.com/ccl125/liquid-glass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ccl125&repo=liquid-glass&theme=tokyonight&hide_border=true" alt="liquid-glass" />
+    <img width="48%" src="https://opengraph.githubassets.com/1/ccl125/liquid-glass" alt="liquid-glass" />
   </a>
   <a href="https://github.com/ccl125/yqg-git-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ccl125&repo=yqg-git-ai&theme=tokyonight&hide_border=true" alt="yqg-git-ai" />
+    <img width="48%" src="https://opengraph.githubassets.com/1/ccl125/yqg-git-ai" alt="yqg-git-ai" />
   </a>
   <a href="https://github.com/ccl125/mini-spring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ccl125&repo=mini-spring&theme=tokyonight&hide_border=true" alt="mini-spring" />
+    <img width="48%" src="https://opengraph.githubassets.com/1/ccl125/mini-spring" alt="mini-spring" />
   </a>
   <a href="https://github.com/ccl125/ccl-leetcode">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ccl125&repo=ccl-leetcode&theme=tokyonight&hide_border=true" alt="ccl-leetcode" />
+    <img width="48%" src="https://opengraph.githubassets.com/1/ccl125/ccl-leetcode" alt="ccl-leetcode" />
   </a>
 </div>
 
@@ -78,11 +78,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ccl125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccl125&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=ccl125&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
