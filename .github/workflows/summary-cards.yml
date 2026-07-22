@@ -1,0 +1,27 @@
+name: Generate Summary Cards
+
+on:
+  schedule:
+    # 每天 UTC 02:00 更新一次
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # 复用 Metrics 的 PAT（已具备 read:user 与 repo 权限）
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        with:
+          USERNAME: ccl125
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 8
+          THEME: tokyonight
+          ANIMATION: load
