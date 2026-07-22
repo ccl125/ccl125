@@ -1,76 +1,107 @@
-<h1 align="center">Hi there 👋 I'm Chenglong Cui</h1>
+<div align="center">
 
-<p align="center">
-  <b>Backend Engineer | AI Engineer | MLOps</b><br>
-  Building AI-powered developer tools and distributed systems.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Chenglong%20Cui&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20Engineer%20%7C%20MLOps&descAlignY=55&descSize=20" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+developer+tools+%F0%9F%A4%96;LangGraph+Workflow+%26+LLM+Applications+%F0%9F%A7%A0;Risk+MLOps+Platform+%26+ETL+Optimization+%E2%9A%A1;Keep+building.+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<p>
+  <a href="mailto:ccl12538@163.com"><img src="https://img.shields.io/badge/Email-ccl12538@163.com-0f2027?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ccl125&style=for-the-badge&color=2F81F7&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ccl125?style=for-the-badge&color=203a43&logo=github" alt="Followers" />
 </p>
 
-<p align="center">
-  <a href="mailto:ccl12538@163.com"><img src="https://img.shields.io/badge/Email-ccl12538@163.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+</div>
 
 ---
 
 ## 🚀 Current Focus
 
-- 🤖 AI Agent
-- 🧠 LLM Applications
-- ⚙️ LangGraph Workflow
-- 📊 Risk MLOps Platform
-- ⚡ ETL Performance Optimization
-- ☁️ Distributed Systems
+- 🤖 **AI Agent** — 智能体应用与工程化落地
+- 🧠 **LLM Applications** — 大模型应用开发
+- ⚙️ **LangGraph Workflow** — 工作流编排
+- 📊 **Risk MLOps Platform** — 风控场景端到端 MLOps
+- ⚡ **ETL Performance Optimization** — ETL 性能分析与优化
+- ☁️ **Distributed Systems** — 分布式系统
 
 ---
 
 ## 🛠 Tech Stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+**Backend**
 
-### Big Data
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apache-hive&logoColor=black)
-![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apache-hadoop&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 
-### AI
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+**Big Data**
 
-### Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=black)
+![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+
+**AI**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+**Cloud & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
 ## ⭐ Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| **Risk MLOps Platform** | End-to-end machine learning operations for risk scenarios |
-| **AI ETL Analyzer** | AI-powered analysis and optimization for ETL pipelines |
-| **LangGraph Workflow** | Workflow orchestration with LangGraph |
-| **Java Utils** | Reusable Java utilities and helpers |
+<div align="center">
+  <a href="https://github.com/ccl125/liquid-glass">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ccl125&repo=liquid-glass&theme=tokyonight&hide_border=true" alt="liquid-glass" />
+  </a>
+  <a href="https://github.com/ccl125/yqg-git-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ccl125&repo=yqg-git-ai&theme=tokyonight&hide_border=true" alt="yqg-git-ai" />
+  </a>
+  <a href="https://github.com/ccl125/mini-spring">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ccl125&repo=mini-spring&theme=tokyonight&hide_border=true" alt="mini-spring" />
+  </a>
+  <a href="https://github.com/ccl125/ccl-leetcode">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ccl125&repo=ccl-leetcode&theme=tokyonight&hide_border=true" alt="ccl-leetcode" />
+  </a>
+</div>
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://ghchart.rshah.org/2F80ED/ccl125" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ccl125&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccl125&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</div>
 
 ---
 
-## 📝 Blog / Articles
+## 🐍 Contribution Snake
 
-> Coming soon...
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ccl125/ccl125/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ccl125/ccl125/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ccl125/ccl125/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+## 📊 Metrics
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ccl125/ccl125/main/github-metrics.svg" alt="Metrics" />
+</div>
 
 ---
 
@@ -78,6 +109,6 @@
 
 - 📧 Email: [ccl12538@163.com](mailto:ccl12538@163.com)
 
----
-
-<p align="center"><i>Keep building. 🚀</i></p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+</div>
