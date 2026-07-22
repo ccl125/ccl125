@@ -78,10 +78,15 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
-  <img height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="700" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+  <br/>
+  <img width="348" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+  <img width="348" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+  <br/>
+  <img width="348" src="https://raw.githubusercontent.com/ccl125/github-stats/generated/overview.svg" alt="GitHub Stats Overview" />
+  <img width="348" src="https://raw.githubusercontent.com/ccl125/github-stats/generated/languages.svg" alt="Top Languages" />
+  <br/>
+  <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=tokyonight&hide_border=true&card_width=700" alt="GitHub Streak" />
 </div>
 
 ---
@@ -93,15 +98,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ccl125/ccl125/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ccl125/ccl125/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-## 📊 Detailed Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ccl125/github-stats/generated/overview.svg" alt="GitHub Stats Overview" />
-  <img src="https://raw.githubusercontent.com/ccl125/github-stats/generated/languages.svg" alt="Top Languages" />
-</div>
 
 ---
 
