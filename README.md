@@ -72,24 +72,8 @@
 <div align="center">
   <img width="700" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
   <br/>
-  <img width="348" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-  <img width="348" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
-  <br/>
-  <img width="348" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
-  <img width="348" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commit Language" />
-  <br/>
   <img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=ccl125&theme=tokyonight&hide_border=true&card_width=700" alt="GitHub Streak" />
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ccl125/ccl125/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ccl125/ccl125/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ccl125/ccl125/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
