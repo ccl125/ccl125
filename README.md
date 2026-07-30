@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Where%20Backend%20Meets%20AI&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20Engineer%20%7C%20MLOps&descAlignY=55&descSize=20" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=git%20checkout%205525&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%7C%20AI%20Engineer%20%7C%20MLOps&descAlignY=55&descSize=20" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+developer+tools+%F0%9F%A4%96;LangGraph+Workflow+%26+LLM+Applications+%F0%9F%A7%A0;Risk+MLOps+Platform+%26+ETL+Optimization+%E2%9A%A1;Keep+building.+%F0%9F%9A%80" alt="Typing SVG" />
