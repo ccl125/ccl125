@@ -72,7 +72,7 @@
 <div align="center">
   <img width="700" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
   <br/>
-  <img width="700" src="https://streak-stats.demolab.com/?user=ccl125&theme=tokyonight&hide_border=true&card_width=700" alt="GitHub Streak" />
+  <img width="700" src="./streak-stats/streak.svg" alt="GitHub Streak" />
 </div>
 
 ---

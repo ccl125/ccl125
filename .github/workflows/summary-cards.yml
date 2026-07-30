@@ -25,3 +25,36 @@ jobs:
           UTC_OFFSET: 8
           THEME: tokyonight
           ANIMATION: load
+
+      - name: Fetch streak stats card (local snapshot)
+        run: |
+          mkdir -p streak-stats
+          ok=0
+          for i in 1 2 3 4 5; do
+            code=$(curl -sS -m 60 -o streak-stats/streak.svg \
+              -w "%{http_code}" \
+              "https://streak-stats.demolab.com/?user=ccl125&theme=tokyonight&hide_border=true&card_width=700")
+            if [ "$code" = "200" ] && grep -q "Total Contributions" streak-stats/streak.svg; then
+              ok=1 && break
+            fi
+            echo "attempt $i failed (http=$code), retrying..."
+            sleep 15
+          done
+          # 抓取失败则保留仓库里上一份快照，绝不让 README 出现裂图
+          if [ "$ok" != "1" ]; then
+            echo "streak card unavailable this run, keep last snapshot"
+            git checkout -- streak-stats/streak.svg 2>/dev/null || true
+          fi
+
+      - name: Commit streak card snapshot
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streak-stats/streak.svg
+          if git diff --cached --quiet; then
+            echo "no change"
+          else
+            git commit -m "chore: update streak stats card snapshot"
+            git pull --rebase
+            git push
+          fi
