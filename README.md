@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://ccl125.github.io/mayday-5525-bbs-vj/">
-    <img src="./assets/mayday-5525-21s-html-fonts.gif" width="960" alt="MAYDAY 5525 BBS：21 秒登录、人物字符画与无限符号动画" />
+    <img src="./assets/mayday-5525-21s-portrait.gif" width="960" alt="MAYDAY 5525 BBS：21 秒登录、人物字符画与无限符号动画" />
   </a>
 </div>
 
