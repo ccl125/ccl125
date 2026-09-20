@@ -22,7 +22,6 @@
   <a href="https://ccl125.github.io/mayday-5525-bbs-vj/">
     <img src="./assets/mayday-5525-21s.gif" width="960" alt="MAYDAY 5525 BBS：21 秒登录、人物字符画与无限符号动画" />
   </a>
-  <p>21 秒循环播放 · <a href="https://ccl125.github.io/mayday-5525-bbs-vj/">打开完整播放器 ↗</a> · <a href="https://github.com/ccl125/mayday-5525-bbs-vj">源码</a></p>
 </div>
 
 ---
